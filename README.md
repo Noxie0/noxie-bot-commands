@@ -37,7 +37,8 @@ animegif: Provide a name of an anime show or character and I will return a gif!
 gif: Provide a query and replies with a gif!
 gintama: Replies with a gintama gif!
 jojo: Replies with a random jojo gif!
-:loud_sound: Other Command Group:
+
+😂 Other Command Group:
 8ball: Get the answer to anything!
 about: Learn about the bot and it's creator!
 advice: Get some advice!
