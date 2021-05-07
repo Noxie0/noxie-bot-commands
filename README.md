@@ -4,7 +4,7 @@
 
 ## Usage
 
-```sh
+```
 🎵 Music Command Group:
 create-playlist: Create a playlist
 delete-playlist: Delete a playlist from your saved playlists
