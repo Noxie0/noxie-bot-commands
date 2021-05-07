@@ -2,7 +2,7 @@
 
 ### 🏠 [Homepage](https://noxiebot.cf)
 
-## Usage
+## Commands
 
 ```
 🎵 Music Command Group:
@@ -93,11 +93,7 @@ ping: Checks the bot's ping to the Discord server.
 
 ```
 
-## Run tests
 
-```sh
-node .
-```
 
 ## Author
 
