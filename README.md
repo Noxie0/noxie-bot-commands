@@ -1,12 +1,4 @@
 <h1 align="center">Welcome to Noxie Bot Commands 👋</h1>
-<p>
-  <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  </a>
-  <a href="#" target="_blank">
-    <img alt="License: Noxie" src="https://img.shields.io/github/license/Noxie0/Noxie Bot Commands" />
-  </a>
-</p>
 
 ### 🏠 [Homepage](https://noxiebot.cf)
 
